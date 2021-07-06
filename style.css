@@ -97,13 +97,13 @@ About
 }
 
 /*-------------------------------------------
-Bicycle
+Fashion
 -------------------------------------------*/
-#bicycle ul {
+#Fashion ul {
   display: flex;
   justify-content: space-between;
 }
-#bicycle li {
+#Fashion li {
   width: 32%;
 }
 
@@ -139,12 +139,12 @@ SP
   }
 
   /*-------------------------------------------
-  Bicycle
+  Fashion
   -------------------------------------------*/
-  #bicycle ul {
+  #Fashion ul {
     flex-direction: column;
   }
-  #bicycle li {
+  #Fashion li {
     width: 100%;
     margin-bottom: 30px;
   }
